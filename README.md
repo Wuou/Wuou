@@ -5,3 +5,5 @@
 - 🔭 I’m currently working on iOS、Java、Vue、uniapp...
 - 🌱 I’m currently learning Flutter things
 - 📫 How to reach me: 352949555@qq.com
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Wuou.Wuou.readme)
