@@ -2,6 +2,6 @@
 
 ### Hi there 你好 👋
 
-- 🔭 I’m currently working on iOS、Java、Vue、Uniapp...
+- 🔭 I’m currently working on iOS、Java、Vue、uniapp...
 - 🌱 I’m currently learning Flutter things
 - 📫 How to reach me: 352949555@qq.com
